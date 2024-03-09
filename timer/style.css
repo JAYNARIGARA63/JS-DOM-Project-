@@ -1,0 +1,28 @@
+.main{
+    width: 100%;
+    height: 100vh;
+    background-color: #212121;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.text{
+    color: white;
+}
+.timeDisplay{
+    width: 700px;
+    text-align: center;
+    display: flex;
+    /* border: 1px solid white; */
+    justify-content: space-between;
+}
+input{
+    width: 100px;
+    height: 40px;
+    background-color: white;
+    text-align: center;
+    font-size: 15px;
+}
+label{
+    color: white;
+}

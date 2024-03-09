@@ -1,0 +1,18 @@
+body{
+    background-color:#352f44;
+    display: flex;
+    justify-content: center;
+}
+form{
+    border: 1px solid black;
+    height: 300px;
+    padding-left: 70px;
+    background-color: #dbd8e3;
+}
+button{
+    margin-left: 80px;
+}
+#result{
+    color:#6b37e6;
+    
+}

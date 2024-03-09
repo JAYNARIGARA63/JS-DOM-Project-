@@ -1,0 +1,30 @@
+body{
+display: flex;
+justify-content: center;
+}
+.main-div{
+height: 600px;
+width: 600px;
+text-align: center;
+}
+span{
+    display: block;
+}
+.box {
+    width: 100px;
+    height: 100px;
+    border: solid black 2px;
+    display: inline-block;
+}
+#grey{
+    background-color: gray;
+}
+#purple{
+    background-color: purple;
+}
+#blue{
+    background-color: blue;
+}
+#yellow{
+    background-color: yellow;
+}
