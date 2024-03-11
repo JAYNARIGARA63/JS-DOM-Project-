@@ -86,7 +86,7 @@ const allReset = () =>{
     )
 }
 
-const quizEnd = () =>{
+const quizEnd = () =>{ 
     document.querySelector('.box').innerHTML =
     `
         <div class="col">
